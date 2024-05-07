@@ -1,0 +1,11 @@
+pydantic
+datetime
+fastapi
+uvicorn
+supabase
+pyjwt
+decouple
+python-multipart
+alembic
+boto3
+sqlalchemy
